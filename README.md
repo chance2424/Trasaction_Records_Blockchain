@@ -11,7 +11,7 @@ This program was created using Python and Streamlit
 
 ## Installation Guide
 
-git clone https://github.com/chance2424/RiskAndReturnMetrics
+git clone https://github.com/chance2424/Trasaction_Records_Blockchain.git
 
 ---
 

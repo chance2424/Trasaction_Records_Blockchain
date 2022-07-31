@@ -15,11 +15,6 @@ git clone https://github.com/chance2424/RiskAndReturnMetrics
 
 ---
 
-## Usage
-Will determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
-
----
-
 ## Contributors
 
 Starter code was provided by UC Berkeley and modifications were done by Chance Dion Griffin
